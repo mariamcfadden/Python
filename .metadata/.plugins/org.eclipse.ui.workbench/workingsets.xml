@@ -3,6 +3,8 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1638494515847_1" label="variables 1" name="variables 1">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/variables 1" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1638664834007_2" label="comments outline" name="comments outline"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1636678591015_0" label="Window Working Set" name="Aggregate for window 1636678591015"/>
+<mruList name="comments outline"/>
 <mruList name="variables 1"/>
 </workingSetManager>
