@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com.brainwy.liclipse.launch">
-    <booleanAttribute key="editedByExternalToolsMainTab" value="true"/>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_EXECUTABLE" value="${build_files}"/>
 </launchConfiguration>
