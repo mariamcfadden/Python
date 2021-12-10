@@ -1,10 +1,12 @@
 #Use input() to ask the user "What is your name?" and store that in
 #a variable called name. Then print the variable.
-
+name=int(input("what is your name?"))
+print(name)
 
 #Use input() to ask the user "What is your favorite color?" and store that 
 #in a variable called color. Then print the variable.
-
+favColor = input("What is your favorite color?")
+print(favColor)
 
 #Use input() to ask the user "What city did you grow up in?" and store 
 #that in a variable called city. Then print the variable.
