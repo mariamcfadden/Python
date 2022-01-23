@@ -20068,3 +20068,6 @@ java.lang.StringIndexOutOfBoundsException: begin 4, end 3, length 3
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.python.pydev.shared_core 4 4 2022-01-22 22:15:55.007
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\comparison operators\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
