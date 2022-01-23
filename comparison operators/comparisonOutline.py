@@ -47,5 +47,6 @@ print(g)
 
 
 #7) Make a comparison with any operator, with one of the common SYNTAX errors.
-
+v = (4 == 5)
+prnt(v)
 
