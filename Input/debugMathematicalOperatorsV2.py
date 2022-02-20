@@ -22,7 +22,7 @@ last item and the smallest number is the first item)
 '''
 def calculations(list):
     print("The sum is:")
-    sum = list[0] + list[1] + list[2]  list[3] + list[4]
+    sum = list[0] + list[1] + list[2] + list[3] + list[4]
     print(sum)
     
     print("The average is:")
@@ -30,7 +30,7 @@ def calculations(list):
     print(average) 
     
     print("The range is")
-    diff = list[4] + list[0]
+    diff = list[4] - list[0]
     print(diff)
     
     return
