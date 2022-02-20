@@ -32,5 +32,6 @@ print(c)
 
 
 #4) Make a logical expression with one of the common SYNTAX errors.
-
+b = no 3 = = 3 
+print(b)
 
