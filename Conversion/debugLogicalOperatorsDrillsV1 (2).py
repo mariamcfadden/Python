@@ -33,8 +33,9 @@ def checkWhoWins(choice):
     
     # This condition checks if there is a draw
     if((choice == 'rock' and cpuChoice == 1)  (choice == 'scissors' and cpuChoice == 2)
-        or (choice == 'paper' ad cpuChoice == 3)):
-        print("DRAW!")
+        or (choice == 'paper' ad (cpuChoice == 3)):
+        print("DRAW!")l
+        
     
     # This condition checks if the human wins
     elif((choice == 'rock' and cpuChoice == 2) or ( == 'scissors' and cpuChoice == 3)
