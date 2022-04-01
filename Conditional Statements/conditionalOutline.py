@@ -8,11 +8,12 @@ Fill in this outline as the instructor goes through the lesson.
 
 # if
 x = 5
-if x>5:
-    print("The x vale is positive")
-x = True
-if x:
-    print('the x value is positive')
+if x=>5:
+    print("The x value is positive")
+    x = True
+else:
+    print('the x value is negative')
+    x = False
 
 #2) Make a boolean variable named b. Now make an if statement, and if b is True
 #print out "b is True."
@@ -55,3 +56,26 @@ else:
 f = 1
 if f > 3:
     print("f is negative")
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
