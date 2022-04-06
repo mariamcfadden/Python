@@ -44,7 +44,11 @@ for x in var:
 
 
 #5) Make a while loop with a common SYNTAX error.
-
+var = ["Kobe", "Maria", "Jon"]
+for x in var:
+    prnt (x)
+    if (x == "maria")
+        break
 
 
 #6) Make a for loop with a common SYNTAX error.
